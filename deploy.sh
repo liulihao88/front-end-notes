@@ -10,9 +10,9 @@ pnpm docs:build
 cd docs/.vitepress/dist
 
 # 提交打包静态网站到 github-pages 分支
-# git init
-# git add .
-# git commit -m 'deploy'
+git init
+git add .
+git commit -m 'deploy'
 
 # 部署到 https://<username>.github.io/<repo>
 git push -f https://github.com/liulihao88/front-end-notes.git master:github-pages
