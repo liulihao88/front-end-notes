@@ -7,7 +7,7 @@ titleTemplate: Library
 hero:
   name: Front-end Notes
   text: ''
-  tagline: 前端笔记文档
+  tagline: 前端笔记文档111
   image:
     src: /logo-with-shadow.png
     alt: Front-end Notes
