@@ -16,6 +16,7 @@ git commit -m 'deploy'
 
 # 部署到 https://<username>.github.io/<repo>
 git push -f https://github.com/liulihao88/front-end-notes.git master:github-pages
+rm -rf dist
 
 # 提交所有代码到github
 cd ../../../
